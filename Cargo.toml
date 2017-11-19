@@ -1,0 +1,10 @@
+[package]
+name = "toy_lambda"
+version = "0.1.0"
+license = "GPL-3"
+authors = ["Evgeny Omelchenko <elemir90@mail.ru>"]
+
+[dependencies]
+oak = "0.5.4"
+oak_runtime = "0.5.5"
+liner = "0.4.2"
